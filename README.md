@@ -1,2 +1,0 @@
-# CubesSpawner
-tetgerhwser
